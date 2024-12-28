@@ -2,5 +2,5 @@
 
 
 
-https://xipeRafa.github.io/puntoDeVentaProvimex 
+https://xipeRafa.github.io/salesProvimex 
 # salesProvimex
