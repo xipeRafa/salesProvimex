@@ -210,6 +210,8 @@ export const AuctionCard = ({ items, UpdateById, UpdateByIdInventario }) => {
                                     {/*<img style={{width:'100px'}} src={ele.imgUrl}/>*/}
 
                                     Cantidad: { ele.quantity} <br /> 
+                                    Codigo: { ele.codigo} <br /> 
+                                    <hr />
 
                                    {/* <span className={el.takenByCustomer === true && 'd-none'}> Tallas: </span>
 
